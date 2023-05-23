@@ -1,7 +1,7 @@
 /**
-* @name ATOMIC HEART
-* @version 9.0.1 
-* @description AH Theme
+* @name Horizon Zero Down. 
+* @version 1.0.1 [BETA]
+* @description Horizon Zero Down Theme
 * @author Andreyka Gamer
 * @Discord Server Where u can contact me:https://discord.gg/JUN8cyBZNE
 */
@@ -9,15 +9,15 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 :root {
---background-image: url('https://i.yapx.ru/VuRGI.jpg');
+--background-image: url('https://i.yapx.ru/UgJ5z.png');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center center;
-  --popout-modal-image: url('https://i.yapx.ru/VuSKc.jpg');
+  --popout-modal-image: url('https://i.yapx.ru/UgJkK.jpg');
   --popout-modal-blur: 5px;
   --popout-modal-size: cover;
   --popout-modal-position: center center;
-  --home-button-image: url('https://i.yapx.ru/VuSIy.png');
+  --home-button-image: url('https://i.yapx.ru/UgJee.png');
   --home-button-size: cover;
   --home-button-position: center center;
   --serverlist-brightness: 0.7;
@@ -25,7 +25,7 @@
   --middle-brightness: 0.6;
   --right-brightness: 0;
   --popout-modal-brightness: 0.7;
-  --gradient-primary: 148,187,233,100;
+  --gradient-primary: 0,212,255,100;
   --gradient-secondary: 2,0,36,100;
   --scrollbar-colour: rgba(255,255,255,0.05);
   --link-colour: #46c5ff;
